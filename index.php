@@ -1,3 +1,3 @@
 <?php
-    include_once("printer.html");
+    include_once("index.html");
 ?>
